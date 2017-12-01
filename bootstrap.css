@@ -6627,7 +6627,7 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1499px) {
   .visible-md {
     display: block !important;
   }
@@ -6642,22 +6642,22 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1499px) {
   .visible-md-block {
     display: block !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1499px) {
   .visible-md-inline {
     display: inline !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1499px) {
   .visible-md-inline-block {
     display: inline-block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-lg {
     display: block !important;
   }
@@ -6672,17 +6672,17 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-lg-block {
     display: block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-lg-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-lg-inline-block {
     display: inline-block !important;
   }
@@ -6697,12 +6697,12 @@ button.close {
     display: none !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1499px) {
   .hidden-md {
     display: none !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .hidden-lg {
     display: none !important;
   }
